@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Master's student at **NU Zaporizhzhia Polytechnic**, specializing in backend development with Python (Django, Flask, FastAPI) and modern front-end technologies (Svelte 5, Tailwind). 
+I'm a Master's student at **NU Zaporizhzhia Polytechnic**, specializing in backend development with Python (Django, Flask) and modern front-end technologies (Svelte 5, Tailwind). 
 I develop visualization and statistics websites that turn complex data into clear, actionable insights.
 
 ## Technical Overview
