@@ -15,5 +15,3 @@ I develop visualization and statistics websites that turn complex data into clea
 
 - **Education:** Bachelor’s graduate; currently pursuing a Master’s degree at NU Zaporizhzhia Polytechnic.
 - **Languages:** Native in Ukrainian and Russian; proficient in English (B2-C1).
-
-Feel free to explore my repositories to see my work in action. You can also check my [site](https://dionisiykdo.github.io/)
