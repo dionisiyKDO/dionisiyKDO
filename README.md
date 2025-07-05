@@ -7,7 +7,7 @@ I develop visualization and statistics websites that turn complex data into clea
 
 - **Languages:** Python, C, C++, JavaScript, TypeScript, HTML, CSS
 - **Backend:** Django, Flask, FastAPI, REST API, SQL, OOP principles
-- **Frontend & Visualization:** Svelte 5, Tailwind, D3.js
+- **Frontend:** Svelte 5, Tailwind, D3.js
 - **Machine Learning:** Experience with CNNs using TensorFlow
 - **Tools & Practices:** Git, GitHub, GitHub Actions (CI/CD)
 
